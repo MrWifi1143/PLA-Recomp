@@ -27,3 +27,10 @@ You need your own copy of Pokémon Legends: Arceus (the base game's `.nsp` / `.x
 from your own Switch. Nothing from the game is in these releases.
 
 This project is not affiliated with or endorsed by Nintendo, The Pokémon Company or Game Freak.
+
+---
+
+**This repository only exists for RecompLauncher.** It holds nothing but the release files, so the launcher has one
+place to install and update the game from. The code, the issues, and every release (including release candidates and
+hotfix zips) live in [MrWifi1143/LZA-Recomp](https://github.com/MrWifi1143/LZA-Recomp) and on
+[GitLab](https://gitlab.com/mr.wifi1143/LZA-Recomp). Please open issues there or ask on [Discord](https://discord.gg/wxqppgye97).
